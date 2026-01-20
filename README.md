@@ -1,4 +1,4 @@
-This repository provides a walkthrough of the **Box-Jenkins methodology** using R. It covers the four essential stages of time series analysis: Identification, Estimation, Diagnostic Checking, and Forecasting.
+This repository provides a walkthrough of the **Box-Jenkins methodology** using R. It covers the four essential stages of the methodology: identification, estimation, diagnostic Checking, and forecasting.
 
 ## 📈 Methodology Overview
 The script demonstrates how to:
@@ -6,7 +6,7 @@ The script demonstrates how to:
 2. **Transform** data using differencing to achieve stationarity.
 3. **Analyze** ACF and PACF plots to determine ARIMA parameters.
 4. **Fit** an ARIMA(2,1,0) model with drift.
-5. **Validate** the model using the Ljung-Box test on residuals.
+5. **Validate** the model using the residual time plot and the Ljung-Box test.
 6. **Forecast** 40 steps ahead with confidence intervals.
 
 ## 🛠️ Requirements
