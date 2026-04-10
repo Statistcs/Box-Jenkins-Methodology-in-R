@@ -1,4 +1,4 @@
-This repository provides a walkthrough of the **Box-Jenkins methodology** in R. It covers the four essential stages of the methodology: identification, estimation, diagnostic checking, and forecasting.
+This repository provides a walkthrough of the Box-Jenkins methodology in R. It covers the four essential stages of the methodology: identification, estimation, diagnostic checking, and forecasting.
 
 ## 📈 Methodology Overview
 The script demonstrates how to:
